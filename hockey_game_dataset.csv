@@ -1,0 +1,15 @@
+Venue,Temperature,IceCondition,TeamForm,PlayHockey
+Indoor,Cold,Good,Strong,Yes
+Indoor,Cold,Good,Weak,Yes
+Indoor,Mild,Good,Strong,Yes
+Outdoor,Cold,Good,Strong,Yes
+Outdoor,Mild,Poor,Weak,No
+Outdoor,Warm,Poor,Strong,No
+Indoor,Mild,Poor,Strong,No
+Indoor,Cold,Poor,Weak,No
+Outdoor,Cold,Good,Weak,Yes
+Indoor,Mild,Good,Weak,Yes
+Outdoor,Cold,Good,Strong,Yes
+Indoor,Warm,Good,Strong,Yes
+Outdoor,Mild,Poor,Strong,No
+Outdoor,Cold,Poor,Weak,No
